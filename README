@@ -1,0 +1,28 @@
+# Portfolio Website - KOMAL MAKWANA
+
+## Description
+This is a personal portfolio website for showcasing my web development skills and projects. The website highlights my experience in full-stack development, particularly in front-end and back-end technologies, along with my education and internship projects.
+
+## Features
+- A clean and responsive design
+- Sections for About, Education, Projects, Services, and Contact
+- Integrated social media links
+- Downloadable resume
+- Dynamic project showcase
+
+## Technologies Used
+- **HTML5**: For the website's structure
+- **CSS3**: For styling and layout
+- **JavaScript**: For dynamic features
+- **Swiper.js**: For the responsive slider
+- **Boxicons**: For icons used in the website
+
+ ### Open index.html in your browser to view the website.
+- Usage
+- This website serves as a portfolio to demonstrate my web development skills. It showcases my projects, services, and provides contact details for potential clients or collaborators.
+
+## Installation
+To run this project locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio-website.git
